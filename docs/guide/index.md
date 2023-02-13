@@ -1,10 +1,9 @@
 ---
-name: guide
-route: /guide
-order: 1
-sidebar: true
-
-# *****************   组件库首页   *****************
-
 title: 指南
+
+nav:
+  title: 指南
+  order: 1
 ---
+
+使用

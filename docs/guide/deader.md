@@ -7,15 +7,15 @@ sidebar: true
 
 ## 用法
 
-```js
+### 基本用法
+
+```jsx
 import { Header } from 'dumi-component-lib';
-
-// 导入
-<Header />;
+export default () => {
+  return (
+    <div>
+      <Header />;
+    </div>
+  );
+};
 ```
-
-## API 文档
-
-| 参数 | 说明 | 类型 | 默认值 |
-| ---- | ---- | ---- | ------ |
-|      |      |      |        |

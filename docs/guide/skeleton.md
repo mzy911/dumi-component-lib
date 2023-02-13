@@ -5,17 +5,15 @@ order: 11
 sidebar: true
 ---
 
-## Basic usage
+### 基本用法
 
-```js
+```jsx
 import { Skeleton } from 'dumi-component-lib';
-
-// 导入
-<Skeleton />;
+export default () => {
+  return (
+    <div>
+      <Skeleton />
+    </div>
+  );
+};
 ```
-
-## API 文档
-
-| 参数 | 说明 | 类型 | 默认值 |
-| ---- | ---- | ---- | ------ |
-|      |      |      |        |
