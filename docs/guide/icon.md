@@ -5,10 +5,9 @@ order: 7
 sidebar: true
 ---
 
-
 ## 用法
 
-``` js
+```js
 import { Icon } from 'dumi-component-lib'
 
 // 使用
@@ -29,17 +28,14 @@ import { Icon } from 'dumi-component-lib'
 <Icon type="FaHotjar" size="24px" style={{marginLeft: '15px', color: 'red'}} />
 ```
 
-
 <!-- 更多图标可以在如下界面获得 -->
 <iframe width="100%" height="1000px" style={{border: 'none'}} src="https://react-icons.netlify.com/#/icons/fa" />
 
+## API 文档
 
-## API文档
-|  参数  |  说明  |  类型  |  默认值  |
-|  ---   |  ---  |  ---  |  ---  |
-|  type  |  icon类型  |  string  |  |
-|  size  |  icon大小(px，lg，xs)  |  string  |  |
-|  rotation  |  旋转角度  |  number  |  |
-|  style  |  图标样式  |  object  |  |
-
-
+| 参数     | 说明                  | 类型   | 默认值 |
+| -------- | --------------------- | ------ | ------ |
+| type     | icon 类型             | string |        |
+| size     | icon 大小(px，lg，xs) | string |        |
+| rotation | 旋转角度              | number |        |
+| style    | 图标样式              | object |        |

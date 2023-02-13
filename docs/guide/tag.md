@@ -5,10 +5,9 @@ order: 14
 sidebar: true
 ---
 
-
 ## 使用
 
-``` js
+```js
 import { Tag } from 'dumi-component-lib'
 
 // 基本使用
@@ -24,9 +23,10 @@ import { Tag } from 'dumi-component-lib'
 <Tag color="green" closable onClose={() => {alert('tag关闭')}}>标签</Tag>
 ```
 
-## API文档
-|  参数  |  说明  |  类型  |  默认值  |
-|  ---   |  ---  |  ---  |  ---  |
-|  closable  |  是否可关闭  |  bool  |  false  |
-|  onClose  |  标签关闭时的回调  |  func  |   |
-|  color  |  标签的颜色,不设置则为默认颜色  |  string  |  '#fafafa'  |
+## API 文档
+
+| 参数     | 说明                          | 类型   | 默认值    |
+| -------- | ----------------------------- | ------ | --------- |
+| closable | 是否可关闭                    | bool   | false     |
+| onClose  | 标签关闭时的回调              | func   |           |
+| color    | 标签的颜色,不设置则为默认颜色 | string | '#fafafa' |
