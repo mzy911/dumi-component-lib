@@ -1,10 +1,12 @@
 ---
-title: llal
+title: 首页
 
 hero:
   title: dumi
-  description: 自定义组件
   actions:
     - text: 快速上手
-      link: /components/alert
+      link: /guide/alert
+
+    - text: Github
+      link: https://github.com/
 ---

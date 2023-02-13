@@ -53,16 +53,16 @@ export default () => {
 
 ## API 文档
 
-| 参数         | 说明                     |   类型    | 默认值 |
-| :----------- | :----------------------- | :-------: | -----: |
+| 参数         | 说明                     | 类型      | 默认值 |
+| :----------- | :----------------------- | :-------- | :----- |
 | icon         | 是否带 icon              | ReactNode |        |
-| defaultValue | 输入框默认内容           |  string   |        |
-| id           | 输入框 id                |  string   |        |
-| className    | 输入框的类名             |  string   |        |
-| style        | 输入框的样式             |  object   |        |
-| placeholder  | 输入框的占位符           |  string   |        |
-| type         | 输入框类型               |  string   |        |
-| autoFocus    | 输入框是否自动聚焦       |   bool    |        |
-| value        | 输入框的值               |  string   |        |
-| onChange     | 输入框变化时的回调       |   func    |        |
-| onIconClick  | 当 icon 按钮点击时的回调 |   func    |        |
+| defaultValue | 输入框默认内容           | string    |        |
+| id           | 输入框 id                | string    |        |
+| className    | 输入框的类名             | string    |        |
+| style        | 输入框的样式             | object    |        |
+| placeholder  | 输入框的占位符           | string    |        |
+| type         | 输入框类型               | string    |        |
+| autoFocus    | 输入框是否自动聚焦       | bool      |        |
+| value        | 输入框的值               | string    |        |
+| onChange     | 输入框变化时的回调       | func      |        |
+| onIconClick  | 当 icon 按钮点击时的回调 | func      |        |

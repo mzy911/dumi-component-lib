@@ -78,12 +78,12 @@ export default () => {
 
 ## API 文档
 
-| 参数        | 说明                         |  类型  |    默认值 |
-| :---------- | :--------------------------- | :----: | --------: | --- |
+| 参数        | 说明                         | 类型   | 默认值    |
+| :---------- | :--------------------------- | :----- | :-------- | --- |
 | style       | 更改 Alert 样式              | object |           |
-| closable    | 是否显示关闭按钮, 默认不显示 |  bool  |     false |
+| closable    | 是否显示关闭按钮, 默认不显示 | bool   | false     |
 | closeText   | 自定义关闭按钮               | string | reactNode | 'x' |
 | message     | 警告提示内容                 | string |           |
 | description | 警告提示的辅助性文字         | string |           |
 | type        | 警告的类型                   | string | 'warning' |
-| onClose     | 关闭时触发的事件             |  func  |           |
+| onClose     | 关闭时触发的事件             | func   |           |

@@ -96,14 +96,14 @@ export default () => {
 
 ## API 文档
 
-| 参数          | 说明                                |  类型   | 默认值 |
-| :------------ | :---------------------------------- | :-----: | -----: | ------- | ---------- | ------ | --------- |
+| 参数          | 说明                                | 类型    | 默认值 |
+| :------------ | :---------------------------------- | :------ | :----- | ------- | ---------- | ------ | --------- |
 | style         | 更改 badge 样式                     | object  |        |
-| color         | 自定义小圆点的颜色                  | string  |  'red' |
-| count         | 展示的数字                          | number  |      0 |
-| dot           | 不展示数字,只展示一个小圆点         |  bool   |  false |
-| offset        | 设置状态点的偏移                    |  array  |        |
+| color         | 自定义小圆点的颜色                  | string  | 'red'  |
+| count         | 展示的数字                          | number  | 0      |
+| dot           | 不展示数字,只展示一个小圆点         | bool    | false  |
+| offset        | 设置状态点的偏移                    | array   |        |
 | overflowCount | 展示封顶的数字                      | number  |        |
-| showZero      | 当数值为 0 时是否展示 Badge         |  bool   |  false |
-| status        | 设置 badge 为状态点, 类型有 success | warning |  error | default | processing | string | 'default' |
+| showZero      | 当数值为 0 时是否展示 Badge         | bool    | false  |
+| status        | 设置 badge 为状态点, 类型有 success | warning | error  | default | processing | string | 'default' |
 | text          | 当设置 status 时状态点的文本        | string  |        |
