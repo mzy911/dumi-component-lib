@@ -2,7 +2,7 @@
 title: 首页
 
 hero:
-  title: dumi
+  title: mzy-ui
   actions:
     - text: 快速上手
       link: /guide/alert
