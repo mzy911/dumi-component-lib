@@ -99,7 +99,7 @@ export default () => {
 ## API 文档
 
 | 参数 | 说明 | 类型 | 默认值 |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | themeColor | 进度条的颜色 | string | '#06f' |
 | percent | 进度值百分比 | number |  |
 | autoHidden | 是否进度到 100%时自动消失 | bool | false |

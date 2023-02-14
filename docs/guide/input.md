@@ -54,7 +54,7 @@ export default () => {
 ## API 文档
 
 | 参数         | 说明                     | 类型      | 默认值 |
-| ------------ | ------------------------ | --------- | ------ |
+| --- | --- | --- | --- |
 | icon         | 是否带 icon              | ReactNode |        |
 | defaultValue | 输入框默认内容           | string    |        |
 | id           | 输入框 id                | string    |        |

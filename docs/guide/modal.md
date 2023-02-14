@@ -37,7 +37,7 @@ export default () => {
 ## API 文档
 
 | 参数 | 说明 | 类型 | 默认值 |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | afterClose | Modal 完全关闭后的回调 | func |  |
 | bodyStyle | Modal body 的样式 | object |  |
 | cancelText | 取消按钮文字 | string | ReactNode | 取消 |

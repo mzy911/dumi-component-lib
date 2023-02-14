@@ -79,7 +79,7 @@ export default () => {
 ## API 文档
 
 | 参数        | 说明                         | 类型   | 默认值    |
-| ----------- | ---------------------------- | ------ | --------- | --- |
+| --- | --- | --- | --- |
 | style       | 更改 Alert 样式              | object |           |
 | closable    | 是否显示关闭按钮, 默认不显示 | bool   | false     |
 | closeText   | 自定义关闭按钮               | string | reactNode | 'x' |
