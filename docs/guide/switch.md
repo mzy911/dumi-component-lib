@@ -10,7 +10,7 @@ sidebar: true
 ### 基本用法
 
 ```jsx
-import { Switch } from 'dumi-component-lib';
+import { Switch } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -25,7 +25,7 @@ export default () => {
 ### 控制大小
 
 ```jsx
-import { Switch } from 'dumi-component-lib';
+import { Switch } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -42,7 +42,7 @@ export default () => {
 ### 开关文本
 
 ```jsx
-import { Switch } from 'dumi-component-lib';
+import { Switch } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>

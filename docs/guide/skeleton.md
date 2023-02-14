@@ -8,7 +8,7 @@ sidebar: true
 ### 基本用法
 
 ```jsx
-import { Skeleton } from 'dumi-component-lib';
+import { Skeleton } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>

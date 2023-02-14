@@ -10,7 +10,7 @@ sidebar: true
 ### 基本用法
 
 ```jsx
-import { Drawer } from 'dumi-component-lib';
+import { Drawer } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>

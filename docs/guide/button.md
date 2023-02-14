@@ -9,7 +9,7 @@ order: 3
 ### 基本用法
 
 ```jsx
-import { Button } from 'dumi-component-lib';
+import { Button } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -28,7 +28,7 @@ export default () => {
 ### 块按钮 block
 
 ```jsx
-import { Button } from 'dumi-component-lib';
+import { Button } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>

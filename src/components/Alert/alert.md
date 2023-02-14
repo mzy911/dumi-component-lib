@@ -10,7 +10,7 @@ sidebar: true
 ## 用法
 
 ```jsx
-  import { Alert } from 'dumi-component-lib'
+  import { Alert } from '@mzy123/customcomponentlib'
 
   export default () => {
     return (

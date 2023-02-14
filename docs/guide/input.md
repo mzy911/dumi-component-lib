@@ -10,7 +10,7 @@ sidebar: true
 ### 基础用法
 
 ```jsx
-import { Input, Icon } from 'dumi-component-lib';
+import { Input, Icon } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -23,7 +23,7 @@ export default () => {
 ### Input 带图标（搜索）
 
 ```jsx
-import { Input, Icon } from 'dumi-component-lib';
+import { Input, Icon } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -41,7 +41,7 @@ export default () => {
 ### 自动聚焦
 
 ```jsx
-import { Input, Icon } from 'dumi-component-lib';
+import { Input, Icon } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>

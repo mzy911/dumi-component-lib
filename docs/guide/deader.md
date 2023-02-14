@@ -10,7 +10,7 @@ sidebar: true
 ### 基本用法
 
 ```jsx
-import { Header } from 'dumi-component-lib';
+import { Header } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>

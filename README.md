@@ -1,7 +1,7 @@
-# dumi-component-lib
+# @mzy123/customcomponentlib
 
-[![NPM version](https://img.shields.io/npm/v/dumi-component-lib.svg?style=flat)](https://npmjs.org/package/dumi-component-lib)
-[![NPM downloads](http://img.shields.io/npm/dm/dumi-component-lib.svg?style=flat)](https://npmjs.org/package/dumi-component-lib)
+[![NPM version](https://img.shields.io/npm/v/@mzy123/customcomponentlib.svg?style=flat)](https://npmjs.org/package/@mzy123/customcomponentlib)
+[![NPM downloads](http://img.shields.io/npm/dm/@mzy123/customcomponentlib.svg?style=flat)](https://npmjs.org/package/@mzy123/customcomponentlib)
 
 A react library developed with dumi
 

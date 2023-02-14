@@ -10,7 +10,7 @@ sidebar: true
 ### 基本用法
 
 ```jsx
-import { Tag } from 'dumi-component-lib';
+import { Tag } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -31,7 +31,7 @@ export default () => {
 ### 关闭时的回调
 
 ```jsx
-import { Tag } from 'dumi-component-lib';
+import { Tag } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>

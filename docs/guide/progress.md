@@ -10,7 +10,7 @@ sidebar: true
 ### 基本用法
 
 ```jsx
-import { Progress } from 'dumi-component-lib';
+import { Progress } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -29,7 +29,7 @@ export default () => {
 ### 隐藏进度文本
 
 ```jsx
-import { Progress } from 'dumi-component-lib';
+import { Progress } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -44,7 +44,7 @@ export default () => {
 ### 设置进度控件宽度
 
 ```jsx
-import { Progress } from 'dumi-component-lib';
+import { Progress } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -61,7 +61,7 @@ export default () => {
 ### 设置进度状态阈值
 
 ```jsx
-import { Progress } from 'dumi-component-lib';
+import { Progress } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>

@@ -8,7 +8,7 @@ sidebar: true
 ### 基础用法
 
 ```jsx
-import { Alert, Button } from 'dumi-component-lib';
+import { Alert, Button } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -21,7 +21,7 @@ export default () => {
 ### 可关闭
 
 ```jsx
-import { Alert, Button } from 'dumi-component-lib';
+import { Alert, Button } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -34,7 +34,7 @@ export default () => {
 ### 主题类型
 
 ```jsx
-import { Alert, Button } from 'dumi-component-lib';
+import { Alert, Button } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -56,7 +56,7 @@ export default () => {
 ### 配置提示辅助文字
 
 ```jsx
-import { Alert, Button } from 'dumi-component-lib';
+import { Alert, Button } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>

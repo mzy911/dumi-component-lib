@@ -9,7 +9,7 @@ sidebar: true
 
 ```jsx
 import { useState } from 'react';
-import { Modal, Button } from 'dumi-component-lib';
+import { Modal, Button } from '@mzy123/customcomponentlib';
 export default () => {
   const [show, setShow] = useState(false);
 

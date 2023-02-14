@@ -10,7 +10,7 @@ sidebar: true
 ### 默认用法
 
 ```jsx
-import { Badge } from 'dumi-component-lib';
+import { Badge } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -23,7 +23,7 @@ export default () => {
 ### 设置 overflowCount，展示封顶的数字
 
 ```jsx
-import { Badge } from 'dumi-component-lib';
+import { Badge } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -47,7 +47,7 @@ export default () => {
 ### 只展示一个小圆点
 
 ```jsx
-import { Badge } from 'dumi-component-lib';
+import { Badge } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -62,7 +62,7 @@ export default () => {
 ### 展示指示状态
 
 ```jsx
-import { Badge } from 'dumi-component-lib';
+import { Badge } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -78,7 +78,7 @@ export default () => {
 ### 展示指示状态
 
 ```jsx
-import { Badge } from 'dumi-component-lib';
+import { Badge } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>

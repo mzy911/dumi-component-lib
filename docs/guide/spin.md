@@ -10,7 +10,7 @@ sidebar: true
 ### 基本用法
 
 ```jsx
-import { Spin } from 'dumi-component-lib';
+import { Spin } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -23,7 +23,7 @@ export default () => {
 ### 线性加载
 
 ```jsx
-import { Spin } from 'dumi-component-lib';
+import { Spin } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
@@ -36,7 +36,7 @@ export default () => {
 ### 改变颜色
 
 ```jsx
-import { Spin } from 'dumi-component-lib';
+import { Spin } from '@mzy123/customcomponentlib';
 export default () => {
   return (
     <div>
