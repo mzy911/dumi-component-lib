@@ -98,12 +98,12 @@ export default () => {
 
 ## API 文档
 
-| 参数        | 说明                                                                          | 类型   | 默认值 |
-| ----------- | ----------------------------------------------------------------------------- | ------ | ------ | --- |
-| themeColor  | 进度条的颜色                                                                  | string | '#06f' |
-| percent     | 进度值百分比                                                                  | number |        |
-| autoHidden  | 是否进度到 100%时自动消失                                                     | bool   | false  |
-| hiddenText  | 是否影藏进度条文本                                                            | bool   | false  |
-| width       | 进度条的宽度                                                                  | string | number | 320 |
-| textColor   | 进度文本颜色                                                                  | string | '#666' |
-| statusScope | 状态阈值,分别设置不同进度范围的进度条颜色,最大允许设置 3 个值, 为一个二维数组 | array  |        |
+| 参数 | 说明 | 类型 | 默认值 |
+| --- | --- | --- | --- | --- |
+| themeColor | 进度条的颜色 | string | '#06f' |
+| percent | 进度值百分比 | number |  |
+| autoHidden | 是否进度到 100%时自动消失 | bool | false |
+| hiddenText | 是否影藏进度条文本 | bool | false |
+| width | 进度条的宽度 | string | number | 320 |
+| textColor | 进度文本颜色 | string | '#666' |
+| statusScope | 状态阈值,分别设置不同进度范围的进度条颜色,最大允许设置 3 个值, 为一个二维数组 | array |  |
